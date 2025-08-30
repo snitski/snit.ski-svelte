@@ -53,7 +53,7 @@
             </Card.Title>
         </Card.Header>
         <Card.Content class="text-lg">
-            You can always find my latest resume at <a class="text-primary hover:underline" href="/resume" target="_blank">resume.snit.ski</a>.
+            You can always find my latest resume at <a class="text-primary hover:underline" href="https://resume.snit.ski" target="_blank">resume.snit.ski</a>.
         </Card.Content>
     </Card.Root>
 </div>
